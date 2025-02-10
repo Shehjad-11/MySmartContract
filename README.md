@@ -14,22 +14,11 @@ The **Land Registry System** is a decentralized application (DApp) built using *
 
 ## Screenshots
 
-
-
 ![Image](https://github.com/user-attachments/assets/cd0572c4-fffa-4893-b21b-8321a7c071b6)
-![Second Image](images/img_4)
-![Third Image](images/img_3.png)
-![Fourth Image](images/img_2.png)
-![Last Image](images/img_1.png)
-
-
-![First Image](images/img_5.png)
-![Second Image](images/img_4.png)
-![Third Image](images/img_3.png)
-![Fourth Image](images/img_2.png)
-![Last Image](images/img_1.png)
-
-
+![Image](https://github.com/user-attachments/assets/83cf742e-1030-4051-963d-dd93bf14ab68)
+![Image](https://github.com/user-attachments/assets/c03ec938-ddf0-4a92-973c-151279e16a49)
+![Image](https://github.com/user-attachments/assets/814dd28e-2f24-4a37-96ef-66d12e0f8423)
+![Image](https://github.com/user-attachments/assets/fceca656-d8ff-49ef-9bc0-5de2a00ae579)
 
 ## Usage
 
